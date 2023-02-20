@@ -1,0 +1,221 @@
+[
+    {
+        "id":1, 
+        "item": "1",
+        "catagory": "house",
+        "title": "House 1",
+        "location": "Latvia",
+        "price": 100000,
+        "imag": "../../image/house/1.jpg",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":2,
+        "item": "2",
+        "catagory": "house",
+        "title": "House 2",
+        "location": "Latvia",
+        "price": 500000,
+        "imag": "../../image/house/2.jpg",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":3,
+        "item": "3",
+        "catagory": "house",
+        "title": "House 3",
+        "location": "Latvia",
+        "price": 90000,
+        "imag": "../../image/house/3.jpg",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":4,
+        "item": "4",
+        "catagory": "house",
+        "title": "House 4",
+        "location": "Estonia",
+        "price": 400000,
+        "type": "brick",
+        "imag": "../../image/house/4.jpg",
+        "raiting": 4
+    },
+    {
+        "id":5,
+        "item": "5",
+        "catagory": "house",
+        "title": "House 5",
+        "location": "Estonia",
+        "price": 10000000,
+        "imag": "../../image/house/5.jpg",
+        "type": "brick",
+        "raiting": 1
+    },
+    {
+        "id":6,
+        "item": "6",
+        "catagory": "house",
+        "title": "House 6",
+        "location": "Estonia",
+        "price":90050,
+        "imag": "../../image/house/6.jpg",
+        "type": "wooden",
+        "raiting": 3
+    },
+    {
+        "id":7,
+        "catagory": "house",
+        "item": "7",
+        "title": "House 7",
+        "location": "Estonia",
+        "price": 400000,
+        "imag": "../../image/house/7.jpg",
+        "type": "brick",
+        "raiting": 4
+    },
+    {
+        "id":8,
+        "item": "8",
+        "catagory": "house",
+        "title": "House 8",
+        "location": "Lithuania",
+        "price": 400000,
+        "imag": "../../image/house/8.jpg",
+        "type": "brick",
+        "raiting": 1
+    },
+    {
+        "id":9,
+        "item": "9",
+        "catagory": "house",
+        "title": "House 9",
+        "location": "Poland",
+        "price": 899880,
+        "imag": "../../image/house/9.jpg",
+        "type": "brick",
+        "raiting": 3
+    },
+    {
+        "id":10,
+        "item": "10",
+        "catagory": "house",
+        "title": "House 10",
+        "location": "Poland",
+        "price": 899880,
+        "imag": "../../image/house/10.jpg",
+        "type": "brick",
+        "raiting": 4
+    },
+    {
+        "id":11,
+        "item": "11",
+        "catagory": "house",
+        "title": "House 11",
+        "location": "Poland",
+        "price": 899880,
+        "imag": "../../image/house/11.jpg",
+        "type": "brick",
+        "raiting": 3
+    },
+    {
+        "id":12,
+        "item": "12",
+        "catagory": "house",
+        "title": "House 12",
+        "location": "Poland",
+        "price": 1000000,
+        "imag": "../../image/house/12.jpg",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":16,
+        "item": "16",
+        "catagory": "house",
+        "title": "House 16",
+        "location": "Poland",
+        "price": 8000,
+        "imag": "../../image/house/15.jpg",
+        "type": "brick",
+        "raiting": 1
+    },
+    {
+        "id":17,
+        "item": "17",
+        "catagory": "house",
+        "title": "House 17",
+        "location": "Sweden",
+        "price": 500000,
+        "imag": "../../image/house/17.jpg",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":18,
+        "item": "18",
+        "catagory": "house",
+        "title": "House 18",
+        "location": "Italy",
+        "price": 3000000,
+        "imag": "../../image/house/23.JPG",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":19,
+        "item": "19",
+        "catagory": "house",
+        "title": "House 20",
+        "location": "Poland",
+        "price": 9500.99,
+        "imag": "../../image/house/21.jpg",
+        "type": "wooden",
+        "raiting": 4
+    },
+    {
+        "id":20,
+        "catagory": "house",
+        "title": "House 20",
+        "location": "Latvia",
+        "price": 500000,
+        "imag": "../../image/house/19.jpg",
+        "type": "wooden",
+        "raiting": 2
+    },
+    {
+        "id":21,
+        "item": "21",
+        "catagory": "house",
+        "title": "House 21",
+        "location": "Poland",
+        "price": 60000,
+        "imag": "../../image/house/20.jpg",
+        "type": "wooden",
+        "raiting": 3
+    }, 
+    {
+        "id":22,
+        "item": "22",
+        "catagory": "house",
+        "title": "House 22",
+        "location": "Italy",
+        "price": 900000.99,
+        "imag": "../../image/house/22.jpg",
+        "type": "brick",
+        "raiting": 5
+    },
+    {
+        "id":23,
+        "item": "23",
+        "catagory": "house",
+        "title": "House 23",
+        "location": "Italy",
+        "price": 1000000,
+        "imag": "../../image/house/24.jpg",
+        "type": "brick",
+        "raiting": 5
+    }
+]
